@@ -1,5 +1,7 @@
 Мое решение задания с [clojurecourse.by](https://clojurecourse.by/)
 
+[![Build Status](https://travis-ci.org/Rende11/clojurecourse_task01.svg?branch=master)](https://travis-ci.org/Rende11/clojurecourse_task01)
+
 # csvdb
 
 Задание: необходимо сделать простую базу данных на основе CSV-файлов. Файлы, с которыми предлагается работать в задании: student.csv, student_subject.csv, subject.csv. Эти три файла реализуют связи типа "многие-ко-многим", т.е. один student может изучать множество subject-ов, один subject может принадлежать множеству student-ов.
